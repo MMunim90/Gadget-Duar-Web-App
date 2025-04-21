@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "name": "iPhone 14 Pro",
+      "model": "A2890",
+      "image": "https://i.ibb.co.com/6GHYgf8/i-Phone-14-Pro.jpg",
+      "price": 1199,
+      "description": "Apple's latest flagship with advanced camera and A16 Bionic chip.",
+      "storage": "128GB, 256GB, 512GB, 1TB",
+      "camera_info": "Triple 48MP + 12MP + 12MP rear, 12MP front"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "name": "Galaxy S23 Ultra",
+      "model": "SM-S918B",
+      "image": "https://i.ibb.co.com/j9cvN5ch/Galaxy-S23-Ultra.jpg",
+      "price": 1399,
+      "description": "High-performance phone with 200MP camera and S Pen support.",
+      "storage": "256GB, 512GB, 1TB",
+      "camera_info": "Quad 200MP + 12MP + 10MP + 10MP rear, 12MP front"
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "name": "Pixel 8 Pro",
+      "model": "GC3VE",
+      "image": "https://i.ibb.co.com/SwLCX04G/Pixel-8-Pro.png",
+      "price": 999,
+      "description": "Pure Android experience with AI-powered camera features.",
+      "storage": "128GB, 256GB, 512GB",
+      "camera_info": "Triple 50MP + 48MP + 48MP rear, 10.5MP front"
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "name": "OnePlus 11",
+      "model": "CPH2447",
+      "image": "https://i.ibb.co.com/QFdChS4V/One-Plus-11.jpg",
+      "price": 799,
+      "description": "Flagship killer with Snapdragon 8 Gen 2 and fast charging.",
+      "storage": "128GB, 256GB",
+      "camera_info": "Triple 50MP + 48MP + 32MP rear, 16MP front"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 13 Pro",
+      "model": "2210132G",
+      "image": "https://i.ibb.co.com/JWJCr22s/Xiaomi-13-Pro.jpg",
+      "price": 899,
+      "description": "Leica-branded camera with premium design and performance.",
+      "storage": "128GB, 256GB, 512GB",
+      "camera_info": "Triple 50MP + 50MP + 50MP rear, 32MP front"
+    },
+    {
+      "id": 6,
+      "brand": "Realme",
+      "name": "Realme GT Neo 5",
+      "model": "RMX3706",
+      "image": "https://i.ibb.co.com/p6H0PnyS/Realme-GT-Neo-5.jpg",
+      "price": 499,
+      "description": "Affordable gaming phone with 240W fast charging.",
+      "storage": "256GB, 512GB",
+      "camera_info": "Triple 50MP + 8MP + 2MP rear, 16MP front"
+    },
+    {
+      "id": 7,
+      "brand": "Motorola",
+      "name": "Edge 40 Pro",
+      "model": "XT2301-4",
+      "image": "https://i.ibb.co.com/qY6mJY5w/Edge-40-Pro.jpg",
+      "price": 899,
+      "description": "Sleek design with Snapdragon 8 Gen 2 and 165Hz OLED display.",
+      "storage": "256GB, 512GB",
+      "camera_info": "Triple 50MP + 50MP + 12MP rear, 60MP front"
+    },
+    {
+      "id": 8,
+      "brand": "Asus",
+      "name": "ROG Phone 7 Ultimate",
+      "model": "AI2205_D",
+      "image": "https://i.ibb.co.com/fGNDJHZN/ROG-Phone-7-Ultimate.jpg",
+      "price": 1299,
+      "description": "Ultimate gaming phone with AirTrigger and cooling system.",
+      "storage": "512GB",
+      "camera_info": "Triple 50MP + 13MP + 5MP rear, 32MP front"
+    },
+    {
+      "id": 9,
+      "brand": "Nothing",
+      "name": "Nothing Phone (2)",
+      "model": "A065",
+      "image": "https://i.ibb.co.com/xSxZ91MQ/Nothing-Phone-2.jpg",
+      "price": 699,
+      "description": "Unique transparent design with Glyph interface and clean OS.",
+      "storage": "128GB, 256GB, 512GB",
+      "camera_info": "Dual 50MP + 50MP rear, 32MP front"
+    },
+    {
+      "id": 10,
+      "brand": "Infinix",
+      "name": "Infinix Zero 30 5G",
+      "model": "X6731",
+      "image": "https://i.ibb.co.com/yckWSx3b/Infinix-Zero-30-5-G.jpg",
+      "price": 299,
+      "description": "Budget-friendly phone with a 144Hz display and solid performance.",
+      "storage": "128GB, 256GB",
+      "camera_info": "Triple 108MP + 13MP + 2MP rear, 50MP front"
+    },
+    {
+      "id": 11,
+      "brand": "Tecno",
+      "name": "Tecno Phantom X2 Pro",
+      "model": "AD8",
+      "image": "https://i.ibb.co.com/LDrVfn5p/Tecno-Phantom-X2-Pro.jpg",
+      "price": 599,
+      "description": "First retractable portrait lens in a smartphone.",
+      "storage": "256GB",
+      "camera_info": "Triple 50MP + 50MP + 13MP rear, 32MP front"
+    },
+    {
+      "id": 12,
+      "brand": "Vivo",
+      "name": "Vivo X90 Pro",
+      "model": "V2219",
+      "image": "https://i.ibb.co.com/JwdFvdjD/Vivo-X90-Pro.jpg",
+      "price": 999,
+      "description": "Professional-grade ZEISS optics and excellent night photography.",
+      "storage": "256GB, 512GB",
+      "camera_info": "Triple 50MP + 50MP + 12MP rear, 32MP front"
+    }
+  ]
+  
