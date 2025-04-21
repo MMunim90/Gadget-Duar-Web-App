@@ -7,11 +7,11 @@ const Banner = ({handleSearch}) => {
     <div>
       <img
         className="w-full mx-auto md:max-w-md"
-        src="https://i.ibb.co.com/FbNxcyR7/banner.jpg"
+        src="https://i.ibb.co.com/cc9t1Wwd/banner.png"
         alt=""
       />
       <div className="text-center space-y-4">
-        <h1 className="font-thin text-7xl text-gray-900">
+        <h1 className="font-thin text-7xl text-black">
           Browse, Search, View, Buy
         </h1>
         <p className="text-gray-500">

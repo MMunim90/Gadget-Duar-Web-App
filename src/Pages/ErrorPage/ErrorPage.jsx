@@ -9,7 +9,7 @@ const ErrorPage = () => {
   return (
     <div>
       <Navbar></Navbar>
-      <div className="text-center place-self-center my-10 py-24">
+      <div className="text-center place-self-center my-10 py-24 min-h-[calc(100vh-166px)]">
         <h1 className="text-gray-900 font-thin text-7xl mb-8">
           {error?.status || 404}
         </h1>
